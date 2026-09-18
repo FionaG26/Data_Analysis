@@ -13,8 +13,7 @@ library(ggplot2)
 library(officer)
 library(flextable)
 
-# 2. GENERATE CLINICAL ONCOLOGY COHORT DATASET
-set.seed(101)
+# 2. CLINICAL ONCOLOGY COHORT DATASET
 n_patients <- 200
 
 # Categorical Clinical Metrics
